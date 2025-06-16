@@ -10,6 +10,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafeuds&layout=compact&langs_count=7&theme=buefy"/>
 </div>
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Rafeuds)](https://git.io/streak-stats)
+
 ##
   
 <div>
