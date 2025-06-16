@@ -1,7 +1,6 @@
 ## Olá, eu sou o Rafael Martins 👋🏻
 
-- 👨‍🎓 Estou cursando ciência da computação
-- 🌱 Estou aprendendo Java e JavaScript 
+- 🌱 Desenvolvimento de projetos
 - 📫 Email: rafael.martinssilva@hotmail.com 
 - 💻 Bora programar ♡ 
 
